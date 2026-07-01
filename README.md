@@ -66,7 +66,6 @@ https://calculator97.vercel.app/
 
 ## 📌 Future Improvements
 
-- Keyboard support ⌨️  
 - Scientific calculator mode  
 - Calculation history  
 - Dark/light theme toggle  
